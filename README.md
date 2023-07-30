@@ -1,8 +1,8 @@
 Bem vindos ao meu perfil
 
-Gosto de assistir anime e jogar volei
-Pretendo fazer um intercâmbio para fora do Brasil
-Quero me formar em programação e ter minha propria empresa
+-Gosto de assistir anime e jogar volei
+-Pretendo fazer um intercâmbio para fora do Brasil
+-Quero me formar em programação e ter minha propria empresa
 
 
 <!---
